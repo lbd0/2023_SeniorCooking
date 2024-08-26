@@ -1,6 +1,6 @@
 # 노인을 위한 가상현실 요리체험 인지능력 향상 프로그램
 
-## 발표자료 (2023 한림대학교 정보과학대학 학술제 아이디어 부문 장려상)
+## 발표자료 (2023 한림대학교 정보과학대학 학술제 아이디어 부문 은상)
 ![image](https://github.com/user-attachments/assets/56453023-e954-451d-a20e-f164e72edfac)
 ![image](https://github.com/user-attachments/assets/a368eb26-8056-4307-b7d4-b58fee04baa2)
 ![image](https://github.com/user-attachments/assets/345e2fec-7263-4a2b-876a-b8f7dbbbbeff)
