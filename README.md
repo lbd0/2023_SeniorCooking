@@ -11,6 +11,19 @@
 
   <br>
 
+  <h3> Files </h3>
+  
+  - Download Project: https://drive.google.com/file/d/1uTu_fHQpYsYhSVB-Xx1ngKAyCV6vWouB/view?usp=drive_link
+  - Watch DEMO Video: https://youtu.be/r0R7ZhzAfdU
+
+  <br>
+
+  <h3> 속행 연구 </h3>
+
+  - https://github.com/lbd0/2024_KCGS
+
+  <br>
+
   <!-- Awards -->
   <h2> Awards </h2>
   <div align="center">
